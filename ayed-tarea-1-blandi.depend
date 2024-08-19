@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1723831481 source:c:\proyectos\practicas ayed\ayed-tarea-1-blandi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"persona.h"
+	"carton.h"
+	"sorteo.h"
+
+1724101606 c:\proyectos\practicas ayed\ayed-tarea-1-blandi\persona.h
+	"carton.h"
+
+1724101338 c:\proyectos\practicas ayed\ayed-tarea-1-blandi\carton.h
+	<stdbool.h>
+
+1724101620 source:c:\proyectos\practicas ayed\ayed-tarea-1-blandi\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"carton.h"
+
+1724101344 source:c:\proyectos\practicas ayed\ayed-tarea-1-blandi\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"carton.h"
+
+1723828721 source:c:\proyectos\practicas ayed\ayed-tarea-1-blandi\sorteo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sorteo.h"
+	"carton.h"
+	"persona.h"
+
+1724101316 c:\proyectos\practicas ayed\ayed-tarea-1-blandi\sorteo.h
+	"persona.h"
+
